@@ -1,1 +1,1 @@
-worker: node Nier.js
+worker: node bot.js
